@@ -5,6 +5,7 @@ public class demoTest {
     }
     @isTest
     static void testMethodName(){
+        System.debug('Test file');
         demo dt = new demo();
     }
 }
